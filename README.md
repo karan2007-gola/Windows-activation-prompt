@@ -8,7 +8,7 @@ Next, you must click on the Run as Administrator to start PowerShell, in this ca
 
 Step 3
 Now, after a brief pause to allow for execution, please copy this line:
-                ---"irm https://get.activated.win | iex"---
+              ---{irm https://get.activated.win | iex}---
 
 Step 4
 Now paste it (with right-click) and hit the enter key. In the newly opened window, there are several options available, from which we must select option 1 and wait a few seconds to complete.
